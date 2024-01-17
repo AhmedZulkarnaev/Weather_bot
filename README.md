@@ -7,7 +7,7 @@
 1. Сначала склонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/ваш-пользователь/ваш-репозиторий.git
+    git clone git@github.com:AhmedZulkarnaev/Weather_bot.git
     cd ваш-репозиторий
     ```
 
@@ -31,7 +31,7 @@
 1. Запустите ваш бот:
 
     ```bash
-    python ваш-файл-бота.py
+    python bot.py
     ```
 
 2. Откройте чат с вашим ботом в Telegram и введите команду `/start`.
